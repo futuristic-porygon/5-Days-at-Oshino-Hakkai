@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b51b29b07951684498010bff1f21e3de, type: 3}
+  m_Name: Gift Test 01
+  m_EditorClassIdentifier: Assembly-CSharp::NPCGiftData
+  giftPreferences:
+  - item: {fileID: 3924484597311312790, guid: 1264bc74b585ac540bd0727d5940a1f1, type: 3}
+    reaction: 0
+    reactionText: Como supiste que me encanta esto? Muchas gracias!<3
+  - item: {fileID: 8882455560621628311, guid: 56bc85fc26a58d44aaef29a1590bad19, type: 3}
+    reaction: 3
+    reactionText: ....Por que?
